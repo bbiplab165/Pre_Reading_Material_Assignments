@@ -1,0 +1,22 @@
+body {
+    background-color: #EAFDFC;
+    padding:0 10px ;
+    
+    border-color: black;
+
+}
+
+.img {
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    text-decoration:underline;
+    text-align: center;
+}
+
+.des {
+    font-size: larger;
+    font-family: sans-serif;
+    margin: 20px;
+}
